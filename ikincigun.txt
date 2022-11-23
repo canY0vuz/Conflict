@@ -10,4 +10,6 @@ Git Github Ucuncu Gun ikinci deneme
 MASTER BRANCH YENI EKLEME
 Git Github Ucuncu Gun BURAK BRANCHI ilk deneme
 BURAK BRANCHI 2.EKLEME
+MASTER BRANCH 2. EKLEME
+
 
